@@ -1,4 +1,4 @@
-## I don't code. Dont judge me.
+## I Don't Code. Dont Judge Me.
 
 You can use the [editor on GitHub](https://github.com/Vinny-94/Vinny-94.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# **Index**
+# 
 ## Header 2
 ### Header 3
 
