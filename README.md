@@ -1,37 +1,20 @@
-## I Don't Code. Dont Judge Me.
+## Veronica Ochoa
 
-You can use the [editor on GitHub](https://github.com/Vinny-94/Vinny-94.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##**Background**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Veronica Ochoa joined the Navy in April 2013. After completing Operations Specialist "A" school in Great Lakes, Illinois, OSSR Ochoa reported to her first duty station, Commander Patrol and Reconnaissance Wing 57 (CPRW-57) in Manama, Bahrain. While at CPRW-57 she became the lowest ranking sailor in the command to become qualified as an Assistant Battle Watch Captain. She was also named Blue Jacket of the Year and recieved her first Navy and Marine Corps Achievement Medal. After CPRW-57, OS3 Ochoa was assigned to Amphibious Squadron Eleven stationed onboard the USS Bonhomme Richard in Sasebo, Japan.
 
-### Markdown
+##**Qualifications**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Leader.
+-Proficient in Microsoft Word, Office and Power Point.
+-Works well in a team. 
+-Great customer service.
 
-```markdown
-Syntax highlighted code block
+##**Interests**
 
-# 
-## Header 2
-### Header 3
+1. Reading.
+2. Napping.
+3. Catching up on the newest Netflix shows.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vinny-94/Vinny-94.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
