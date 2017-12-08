@@ -10,3 +10,5 @@ My teacher made me do this...
 
 
 [Bio:](https://github.com/Vinny-94/Vinny-94.github.io/blob/master/Bio.md)
+
+[Topic:](https://github.com/Vinny-94/Vinny-94.github.io/blob/master/Topic)
