@@ -19,5 +19,8 @@ Great customer service.
 1. Reading.
 2. Napping.
 3. Catching up on the newest Netflix shows.
+4. Playing with my puppy.
+
+![Puppy](https://github.com/Vinny-94/Vinny-94.github.io/blob/master/DSC_0598.JPG
 
 
