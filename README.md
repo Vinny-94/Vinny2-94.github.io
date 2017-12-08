@@ -6,10 +6,10 @@ Veronica Ochoa joined the Navy in April 2013. After completing Operations Specia
 
 ##**Qualifications**
 
--Leader.
--Proficient in Microsoft Word, Office and Power Point.
--Works well in a team. 
--Great customer service.
++Leader.
++Proficient in Microsoft Word, Office and Power Point.
++Works well in a team. 
++Great customer service.
 
 ##**Interests**
 
